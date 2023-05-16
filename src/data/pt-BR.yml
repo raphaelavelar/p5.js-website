@@ -1,122 +1,121 @@
-Skip-To-Content: Skip to content
-Language-Settings: Language Settings
-Sidebar-Title: Site Navigation
-Home: Home
+Skip-To-Content: Pular para o conteúdo
+Language-Settings: Preferências de idioma
+Sidebar-Title: Navegação do site
+Home: Início
 Editor: Editor
-Download: Download
-Donate: Donate
-Start: Get Started
-Reference: Reference
-Libraries: Libraries
-Learn: Learn
-Teach: Teach
-Examples: Examples
-Books: Books
-Community: Community
-Contribute: Contribute
-Forum: Forum
+Download: Baixar
+Donate: Doar
+Start: Começar
+Reference: Referência
+Libraries: Bibliotecas
+Learn: Aprenda
+Teach: Ensine
+Examples: Exemplos
+Books: Livros
+Community: Comunidade
+Contribute: Contribuir
+Forum: Fórum
 Showcase: Showcase
-footerxh1: Credits
-footer1: 'p5.js is currently led by '
-footer3: ' and was created by '
-footer4: '. p5.js is developed by a community of collaborators, with support from the '
-footer5: ' and '
-footer6: '. Identity and graphic design by '
+footerxh1: Créditos
+footer1: 'p5.js é atualmente liderado por '
+footer3: ' e foi criado por '
+footer4: '. p5.js é desenvolvido por uma comunidade de colaboradores, com apoio de '
+footer5: ' e '
+footer6: '. Identidade e design gráfico por '
 footer7: '. '
-footer8: 'Info'
+footer8: 'Informação'
 footer9: '.'
-tagline1: Processing fun times JavaScript quirkiness
-tagline2: Processing simplicity times JavaScript flexibility
-tagline3: Processing intuition times JavaScript power
-tagline4: Processing creativity times JavaScript dynamism
-tagline5: Processing community times JavaScript community
-tagline6: the power of Processing times the reach of JavaScript
-tagline7: The p5.js community stands in solidarity with Black Lives Matter.
+tagline1: a diversão de Processing e a excentricidade do JavaScript
+tagline2: a simplicidade de Processing e a flexibilidade do JavaScript
+tagline3: a intuitividade de Processing e o poder do JavaScript
+tagline4: a creatividade de Processing e o dinamismo do JavaScript
+tagline5: a comunidade de Processing e a comunidade do JavaScript
+tagline6: o poder de Processing e o alcance do JavaScript
+tagline7: A comunidade do p5.js se solidariza com Black Lives Matter.
 home:
-  start-creating: Start creating with the p5 Editor!
-  p1xh1: Hello!
+  start-creating: Começe a criar com editor de p5!
+  p1xh1: Olá!
   p1x1: >-
-    p5.js is a JavaScript library for creative coding, with a focus on making
-    coding accessible and inclusive for artists, designers, educators,
-    beginners, and anyone else! p5.js is free and open-source because we believe
-    software, and the tools to learn it, should be accessible to everyone.
+    p5.js é uma biblioteca JavaScript para programação criativa com foco em tornar
+    a programação acessível e inclusiva para artistas, designers, educadores,
+    iniciantes e a todos! p5.js é gratuito e open-source porque acreditamos que o
+    software e as ferramentas para aprendé-lo deveriam ser acessíveis a todos.
   p1x2: >-
-    Using the metaphor of a sketch, p5.js has a full set of drawing
-    functionality. However, you’re not limited to your drawing canvas. You can
-    think of your whole browser page as your sketch, including HTML5 objects for
-    text, input, video, webcam, and sound.
-  p2xh2: Community
+    Usando a metáfora do esboço, p5.js tem um conjunto completo de funcionalidades
+    de desenho. Entretanto, você não é limitado ao seu quadro. Você pode pensar
+    em todo o seu navegador como o seu quadro, incluindo objetos HTML5 para texto,
+    entrada de dados, vídeo, webcam e som.
+  p2xh2: Comunidade
   p2x1: >-
-    We are a community of, and in solidarity with, people from every gender
-    identity and expression, sexual orientation, race, ethnicity, language,
-    neuro-type, size, disability, class, religion, culture, subculture,
-    political opinion, age, skill level, occupation, and background. We
-    acknowledge that not everyone has the time, financial means, or capacity to
-    actively participate, but we recognize and encourage involvement of all
-    kinds. We facilitate and foster access and empowerment. We are all learners.
-  p2x2: 'p5.js is an interpretation of '
-  p2x3: ' for today’s web. We hold events and operate with support from the '
+    Nós somos uma comunidade de - e em soliedariedade com - pessoas de todas as
+    identidades e expressões de gêneros, orientação sexual, raça, etnicidade,
+    linguagem, tipo neurológico, tamanho, deficiência, classe, religião, cultura,
+    subcultura, opinião política, idade, nível de habilidade, ocupação e
+    passado. Nós reconhecemos que nem todo mundo tem tempo, condições
+    financeiras ou capacidade de participar ativamente, mas reconhecemos e
+    encorajamos o envolvimento de todos os tipos. Nós facilitamos e fomentamos
+    acesso e empoderamento. Nós somos todos aprendizes.
+  p2x2: 'p5.js é uma interpretação de '
+  p2x3: ' para a internet. Realizamos eventos e operamos com apoio de '
   p2x4: .
-  p2x5: 'Learn more about '
-  p2x6: our community
+  p2x5: 'Aprenda mais sobre '
+  p2x6: nossa comunidade
   p2x7: .
-  p3xh2: Get Started
-  p3xp1: 'Make your first sketch in the '
-  p3xp2: '. Learn more about sketching with p5.js on the '
-  p3xp3: Get Started page
-  p3xp4: ' and everything you can do in the '
-  p3xp5: Reference
+  p3xh2: Iniciar
+  p3xp1: 'Faça seu primeiro esboço no '
+  p3xp2: '. Aprenda mais sobre esboçar com p5.js no '
+  p3xp3: Página iniciar
+  p3xp4: ' e tudo o que você pode fazer em '
+  p3xp5: Referência
   p3xp6: .
-  p4xh2: Get Involved
-  p4xp1: 'There are many ways to contribute to p5.js:'
-  p4xp2: Involvement Options
-  p4xp3: Share something you've made!
-  p4xp4: Teach a workshop or class.
-  p4xp5: Organize a meet-up.
-  p4xp6: Contribute to the codebase.
-  sketch_credits: Sketch Credits
-  sketch_info: Hunminjeongeum2020 created by Seonghyeon Kim
+  p4xh2: Envolva-se
+  p4xp1: 'Existem várias maneiras de contribuir com p5.js:'
+  p4xp2: Opções para se envolver
+  p4xp3: Compartilhe algo que você fez!
+  p4xp4: Ensine em uma apresentação ou aula.
+  p4xp5: Organize um encontro.
+  p4xp6: Contribua com o código.
+  sketch_credits: Créditos dos esboços
+  sketch_info: Hunminjeongeum2020 criado por Seonghyeon Kim
 copyright:
-  copyright-title: Copyright Information
-  copyright1: 'The p5.js library is free software; you can redistribute it and/or modify it
-    under the terms of the '
-  copyright2: ' as published by the Free Software Foundation, version 2.1.'
-  copyright3: 'The Reference for the language is under a '
-  copyright4: ' license which makes it possible to reuse this content for non-commercial purposes if it is credited.'
+  copyright-title: Informação de direito autoral
+  copyright1: 'A biblioteca p5.js é software livre; você pode redistribuí-la e/ou modificá-la
+    de acordo com os termos de '
+  copyright2: ' como publicado por Free Software Foundation, versão 2.1.'
+  copyright3: 'A referência para a linguagem se encontra sob a licença '
+  copyright4: ', o que torna possível o reuso desse conteúdo para propósitos não comerciais se acreditada.'
 get started:
-  get-started-title: Get Started
+  get-started-title: Iniciar
   get-started1: >-
-    This page walks you through setting up a p5.js project and making your first
-    sketch.
-  get-started2: 'The easiest way to start is using the '
-  get-started3: p5.js editor
-  get-started4: ', you can open the web editor and can scroll down to '
-  get-started5: Your First Sketch
+    Essa págine te orienta na configuração de um projeto p5.js e no densenvolvimento do seu primeiro esboço.
+  get-started2: 'O modo mais simples de começar é usando o '
+  get-started3: editor p5.js
+  get-started4: ', você pode abrir o editor e descer para '
+  get-started5: Seu primeiro esboço
   get-started6: >-
-    . If you would like to work on the desktop version of p5.js you can
-    scroll down to
-  get-started7: downloading instructions
-  get-started-button: 'Copy'
-  settingUp-title: Setting up p5.js with an editor on your own computer
-  download-title: Downloading a copy of the p5.js library
-  hosted-title: Using a hosted version of the p5.js library
-  download1: 'The easiest way to start is by using the empty example that comes with the '
-  download2: p5.js complete
-  download3: ' download.'
-  download8: 'After download, you need to set up a local server. See instructions '
-  download9: here
-  download10: '. Run your local server within the downloaded folder and on your browser, go to '
+    . Se você gostaria de usar a versão desktop do p5.js, você pode descer para as
+  get-started7: instruções de download
+  get-started-button: 'Copiar'
+  settingUp-title: Configurando o p5.js com um editor no seu computador
+  download-title: Baixando uma cópia da biblioteca p5.js
+  hosted-title: Usando uma versão hospedada da biblioteca p5.js
+  download1: 'O modo mais simples de começar é usando o exemplo vazio que vem com a versão'
+  download2: completa do p5.js
+  download3: ' baixar.'
+  download8: 'Depois do download, você precisa configurar um servidor local. Veja as instruções '
+  download9: aqui
+  download10: '. Execute o servidor local dentro da pasta baixada e, no seu navegador, acesse '
   download11: 'http://localhost:{your-port-num}/empty-example'
   download4: >-
-    If you look in index.html, you'll notice that it links to the file p5.js. If
-    you would like to use the minified version (compressed for faster page
-    loading), change the link to p5.min.js.
+    Se você olhar no index.html, verá que ele aponta para o arquivo p5.js. Se você quiser
+    usar a versão minificada (comprimida para carregamento de página mais rápida), mude o
+    link para p5.min.js.
   download5: >-
-    Alternatively, you can link to a p5.js file hosted online. All versions of
-    p5.js are stored in a CDN (Content Delivery Network). You can find a history
-    of these versions in the
-  download6: '. In this case you can change the link to:'
-  download7: 'A sample HTML page might look like this:'
+    Alternativamente, você pode apontar para um arquivo p5.js hosteado online. Todas as versões do
+    p5.js estão armazenadas em uma CDN (rede de fornecimento de conteúdo). Você pode encontrar o 
+    histórico dessas versões em
+  download6: '. Nesse caso, você pode mudar o link para:'
+  download7: 'Uma página HTML de exemplo se parece com:'
   environment-title: Environment
   environment1: 'To run p5.js in your computer you will need a text editor. You can use the '
   environmentlink: 'http://en.wikipedia.org/wiki/Source_code_editor'
