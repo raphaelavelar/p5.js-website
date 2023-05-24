@@ -321,76 +321,76 @@ download:
   support-30-alt: ''
   support-31-alt: ''
 learn:
-  learn-title: Learn
-  teach-title2: Teach
+  learn-title: Aprenda
+  teach-title2: Ensine
   learn1: >-
-    These tutorials provide more in-depth or step-by-step overviews of
-    particular topics. Check out the
-  learn2: examples page
-  learn3: to explore short demonstrations of various p5.js topics.
-  introduction-to-p5js-title: Introduction to p5.js
-  hello-p5js-title: Hello p5.js
+    Esses tutorias fornecem uma visão mais profunda e passo-a-passo de tópicos
+    específicos. Veja a
+  learn2: página de exemplos
+  learn3: para explorar demosntrações curtas de vários tópicos p5.js.
+  introduction-to-p5js-title: Introdução ao p5.js
+  hello-p5js-title: Olá p5.js
   hello-p5js: >-
-    This short video will introduce you to the library and what you can do with
-    it.
-  getting-started-title: Getting Started
+    Esse pequeno vídeo vai introduzí-lo à biblioteca e ao que você pode fazer com ela.
+  getting-started-title: Iniciando
   getting-started: >-
-    Welcome to p5.js! <br> This introduction covers the basics of setting up a
-    p5.js project.
-  p5js-overview-title: p5.js overview
-  p5js-overview: An overview of the main features of p5.js.
-  p5js-processing-title: p5.js and Processing
+    Bem-vindo ao p5.js! <br> Essa introdução cobre os princípios básicos de configuração
+    de um projeto p5.js.
+  p5js-overview-title: Visão geral do p5.js
+  p5js-overview: Uma visão geral das principais funcionalidade do p5.js.
+  p5js-processing-title: p5.js e Processing
   p5js-processing: >-
-    The main differences between the two, and how to convert from one to the
-    other.
-  p5-screen-reader-title: p5 with a screen reader
-  p5-screen-reader: Setting up p5 so that it can be used easily with a screen reader.
-  using-local-server-title: Using a local server
-  using-local-server: 'How to set up a local server on Mac OSX, Windows, or Linux.'
-  p5js-wiki-title: p5.js wiki
-  p5js-wiki: Additonal documentation and tutorials contributed by the community
-  connecting-p5js-title: Connecting p5.js
-  creating-libraries-title: Creating libraries
-  creating-libraries: Creating p5.js addon libraries.
-  nodejs-and-socketio-title: node.js and socket.io
-  nodejs-and-socketio: 'Using a node.js server with p5.js, communication via socket.io.'
-  programming-topics-title: Programming topics
-  beyond-the-canvas-title: Beyond the canvas
-  beyond-the-canvas: Creating and manipulating elements on the page beyond the canvas.
-  getting-started-in-webgl-other-tutorials-title: Other Tutorials
+    As principais diferenças entre eles e como converter de um para o outro.
+  p5-screen-reader-title: p5 com um leitor de tela
+  p5-screen-reader: Configurando o p5 para que seja usado tranquilamente com leitor de tela.
+  using-local-server-title: Usando um servidor local
+  using-local-server: 'Como configurar um servidor local no Mac OSX, Windows ou Linux.'
+  p5js-wiki-title: Wiki do p5.js
+  p5js-wiki: Documentação adicional e tutoriais criados pela comunidade
+  connecting-p5js-title: Cooonectando ao p5.js
+  creating-libraries-title: Criando bibliotecas
+  creating-libraries: Criandoo bibliotecas de extensão do p5.js.
+  nodejs-and-socketio-title: node.js e socket.io
+  nodejs-and-socketio: 'Usando um servidor node.js com p5.js, comunicação por socket.io.'
+  programming-topics-title: Tópicos de progração
+  beyond-the-canvas-title: Além do esboço
+  beyond-the-canvas: Criando e manipulando elementos na página e além do quadro.
+  getting-started-in-webgl-other-tutorials-title: Outros tutoriais
   getting-started-in-webgl-other-tutorials-p: >-
-    This tutorial is part of a series about the basics of using WebGL in p5.js. Check out each of these other tutorials below.
-  getting-started-in-webgl-other-tutorials-tut1: Coordinates and Transformations
-  getting-started-in-webgl-other-tutorials-tut2: Creating Custom Geometry in WebGL
-  getting-started-in-webgl-other-tutorials-tut3: Styling and Appearance
-  getting-started-in-webgl-other-tutorials-tut4: Introduction to Shaders
-  getting-started-in-webgl-other-tutorials-you-are-here: (you are here)
-  getting-started-in-webgl-title: Getting Started in WebGL
-  getting-started-in-webgl-glossary-title: Glossary
-  getting-started-in-webgl-coords-and-transform-title: Coordinates and Transformations
-  getting-started-in-webgl-coords-and-transform: Basics of 3D setup, coordinates, and transformations
+    Esse tutorial é parte de uma série sobre o básico para uso do WebGL no p5.js. 
+    Condira cada um desses outros tutoriais abaixo.
+  getting-started-in-webgl-other-tutorials-tut1: Coordenadas e transformações
+  getting-started-in-webgl-other-tutorials-tut2: Criando geometria customizada em WebGL
+  getting-started-in-webgl-other-tutorials-tut3: Estilização e aparência
+  getting-started-in-webgl-other-tutorials-tut4: Introdução a Shaders
+  getting-started-in-webgl-other-tutorials-you-are-here: (você está aqui)
+  getting-started-in-webgl-title: Começando com WebGL
+  getting-started-in-webgl-glossary-title: Glossário
+  getting-started-in-webgl-coords-and-transform-title: Coordenadas e transformação
+  getting-started-in-webgl-coords-and-transform: Básico para setup 3D, coordenadas e transformações
   getting-started-in-webgl-coords-and-transform-p1x1: >- 
-    p5.js is a powerful tool for creating 2D graphics but it's also capable of 3D graphics.
-    This tutorial will introduce new concepts for creating 3D sketches with p5.js.
-  getting-started-in-webgl-coords-and-transform-toc-title: Table of Contents 
-  getting-started-in-webgl-coords-and-transform-heading1: What is WebGL?
+    p5.js é uma ferramenta poderosa para criar gráficoos 2D mas também é capaz de criar gráficos 3D.
+    Esse tutorial apresentará novos conceitos para criação de esboços 3D com p5.js.
+  getting-started-in-webgl-coords-and-transform-toc-title: Tabela de conteúdoos
+  getting-started-in-webgl-coords-and-transform-heading1: O que é WebGL?
   getting-started-in-webgl-coords-and-transform-p2x1: >- 
-    WebGL is a library that gives us the tools we need to create 3D graphics within a web browser. To put it simply,
-    it allows us to do all kinds of math to help arrange and display objects in 3D. p5.js makes it easier to work with WebGL
-    through its special WebGL mode.
+    WebGL é uma biblioteca dque fornece o contrle necessário para criar gráficos 3D dentro do navegador.
+    Para colocar de foorma simples, ele permite fazer diversos tipos de cálculos matemáticos para organizar
+    e exibir objetos em 3D. p5.js torna simples o trabalho com WebGL pelo seu modo especial WebGL.
   getting-started-in-webgl-coords-and-transform-p3x1: >- 
-      Working in 3D introduces a lot of complexity, especially when a sketch involves motion, texture, lighting, and
-      more. Luckily for us, computers have special hardware that is particularly
-      well suited to performing those calculations, the graphics processing unit (GPU). The GPU is capable of
-      processing many things simultaneously, which is especially important when we're dealing with pixels and many shapes in space.
+      Trabalhar com 3D introduz muito complexidade, especialmente quando um esboço envolve movimento,
+      textura, iluminação e mais. Felizmente para nós, computadores possuem um harware especial que é 
+      particularmente útil para executar esses cálculos: a unidade de processamento gráfico (GPU). A
+      GPU é capaz de processar várias coisas simultaneamente, o que é especialmente importante quando se lida
+      com píxeis e muitas formas no espaço.
   getting-started-in-webgl-coords-and-transform-p4x1: >- 
-    Let's get started by setting up the p5.js to use WebGL, by passing WEBGL as a third parameter into <a class="code">createCanvas()</a>.
+    Vamoos começar configurando o p5.js para usar WebGL passando WEBGL como um terceito parâmetro em <a class="code">createCanvas()</a>.
   getting-started-in-webgl-coords-and-transform-heading2: >-
-    3D Coordinate Space: Positioning in 3D
+    Espaço de coordenada 3D: posicionamento em 3D
   getting-started-in-webgl-coords-and-transform-info1x1: >-
-    If coordinates systems aren't making sense it might be helpful to revisit the tutorial titled 
+    Se os sistemas de coordenadas não está fazendo sentido, pode ser útil revisitar o tutorial chamado 
   getting-started-in-webgl-coords-and-transform-info1x2: >-
-    Coordinate System and Shapes
+    Sistema de coordenadas e formas
   getting-started-in-webgl-coords-and-transform-p5x1: >- 
     One of the most fundamental differences between working in 2D and working in 3D is the most obvious: there is
     one more dimension to work with. In addition to the horizontal and vertical position (x and y axes) of an
