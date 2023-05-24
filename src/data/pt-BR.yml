@@ -214,97 +214,97 @@ get started:
     p5.js, por Lauren McCarthy, Casey Reas e Ben Fry, O'Reilly / Make 2015.
     Copyright © 2015. All rights reserved. Última modificação na Conferência de Contribuidores p5.js 2019.
 download:
-  Download: Download
+  Download: Baixar
   download-intro: >-
-    Welcome! While titled "Download" this page actually contains a collection of
-    links to either download the library or begin working with it online. We've
-    tried to order things to reflect what a beginner might want first, to
-    resources that more experienced programmers may be looking for.
+    Bem-vindo! Apesar do título ser "Baixar", essa página, na verdade, contém uma
+    coleção de links para baixar a biblioteca ou começar a utilizá-la online. Nós
+    tentamos ordernar as coisas para refletir o que um iniciante gostaria de
+    começar usando até o que programadores mais experientes podem estar procutrando.
   editor-title: Editor
-  p5.js-editor: p5.js Editor
+  p5.js-editor: editor p5.js
   p5.js-editor-intro: >-
-    This link redirects you to the p5.js Editor online so you can begin using
-    p5.js immediately.
-  editor-includes: 'Start coding using the p5.js Editor, no setup required!'
-  complete-library-title: Complete Library
+    Esse link lhe redireciona para o editor online p5.js para que você possa
+    começar a usar o p5.js imediatament.
+  editor-includes: 'Comece a programar utilizando o editor p5.js. Sem necessidade de configuração!'
+  complete-library-title: Biblioteca completa
   complete-library-intro1: >-
-    This is a download containing the p5.js library file, the p5.sound addon,
-    and an example project. It does not contain an editor. Visit
-  complete-library-intro2: Get Started
-  complete-library-intro3: ' to learn how to setup a p5.js project.'
-  p5.js-complete: p5.js complete
-  includes-1: 'Includes:'
-  includes-2: 'p5.js, p5.sound.js, and an example project'
-  includes-3: 'Version '
-  single-files-title: Single Files
+    Esse é um download contendo o arquivo da biblioteca p5.js, a extensão p5.sound
+    e um projeto de exemplo. Ele não contém um editor. Visite
+  complete-library-intro2: Iniciar
+  complete-library-intro3: ' para aprender a configurar um projeto p5.js.'
+  p5.js-complete: p5.js completo
+  includes-1: 'Inclui:'
+  includes-2: 'p5.js, p5.sound.js e um projeto de exemplo'
+  includes-3: 'Versão '
+  single-files-title: Arquivos únicos
   single-files-intro: >-
-    These are downloads or links to the p5.js library file. No additional
-    contents are included.
-  single-file: 'Single file: '
-  p5.js-uncompressed: Full uncompressed version
-  compressed: Compressed version
+    Esse são downloads ou links para o arquivo da biblioteca p5.js.
+    Nenhum conteúdo adicional é incluso.
+  single-file: 'Arquivo único: '
+  p5.js-uncompressed: Versão comprimida completa
+  compressed: Versão comprimida
   link: 'Link: '
-  statically-hosted-file: Statically hosted file
-  etc-title: Github Resources
-  older-releases: Previous versions (older releases and changelog)
-  github-repository: Code repository (GitHub)
-  report-bugs: 'Report issues, bugs, and errors'
-  supported-browsers: 'Supported browsers '
-  support-title: Support p5.js!
-  support-options: Support Options
+  statically-hosted-file: Arquivo hosteado staticamente
+  etc-title: Recursos Github
+  older-releases: Versões anteriores (versões passadas e log de mudanças)
+  github-repository: Repositório de código (GitHub)
+  report-bugs: 'Reporte problemas, bugs e erros'
+  supported-browsers: 'Navegadores suportados '
+  support-title: Apoie p5.js!
+  support-options: Opções de apoio
   support-1:
-    'We need your help! p5.js is free, open-source software. We want to make our community as open
-    and inclusive as possible. You can support this work by making a donation to
-    the '
+    'Nós precisamos da sua ajuda! p5.js é gratuito e open-source. Nós queremos fazer a nossa
+    comunidade o mais aberta e inclusiva posssível. Você pode apoiar o nosso trabalho fazendo
+    uma doação para'
   support-2: >-
-    , the organization that supports p5.js.
-    Your donation supports software development for p5.js, education resources
-    like code examples and tutorials,
-  support-3: Fellowships
-  support-4: ', and '
-  support-5: community events.
+    , a organização que mantém p5.js.
+    Sua doação permite o desenvolvimento de software para p5.js, recursos educacionais, 
+    como exemplos de códigos, e tutoriais,
+  support-3: Sociedade
+  support-4: ', e '
+  support-5: eventos comunitários.
   support-17: >-
-    p5.js Contributors Conference at CMU STUDIO for Creative Inquiry in
-    Pittsburgh (Image credit: Taeyoon Choi)
+    Conferência de contribuidores p5.js no CMU STUDIO for Creative Inquiry em
+    Pittsburgh (Crédito da imagem: Taeyoon Choi)
   support-18: >-
     Processing Fellow Saskia Freeke is organizing Code Liberation x Processing
-    workshops in London (Image credit: Code Liberation Foundation)
+    workshops in London (Crédito da imagem: Code Liberation Foundation)
   support-19: >-
-    Learning to Teach, Teaching to Learn conference with SFPC (Image credit:
+    Conferência Aprendendo a ensinar, ensinando para aprender com SFPC (Crédito da imagem:
     Kira Simon-Kennedy)
   support-20: >-
-    Processing Foundation Fellow Cassie Tarakajian's workshop at Code Art Miami
-    (Image credit: Christian Arévalo Photography)
+    Workshop da Processing Foundation Fellow Cassie Tarakajian's em Code Art Miami
+    (Crédito da imagem: Christian Arévalo Photography)
   support-21: >-
-    Taeyoon Choi and ASL interpretor at Signing Coders p5.js workshop (Image
+    Taeyoon Choi e interpretador de linguagem americana de sinais em workshop de Signing Coders p5.js (Image
     credit: Taeyoon Choi)
-  support-22: 'Google Summer of Code kickoff (Image credit: Taeyoon Choi)'
+  support-22: 'Google Summer of Code kickoff (Crédito da imagem: Taeyoon Choi)'
   support-23: >-
     Processing Foundation Fellow Cassie Tarakajian's workshop at Code Art Miami
-    (Image credit: Christian Arévalo Photography)
+    (Crédito da imagem: Christian Arévalo Photography)
   support-24: >-
-    Luisa Pereira and Yeseul Song helping facilitate a sign language based p5.js
-    workshop led by Taeyoon Choi (Image credit: Taeyoon Choi)
+    Luisa Pereira e Yeseul Song ajudando a facilitar um workshop p5;js em linguagem de sinais
+    instruido por Taeyoon Choi (Crédito da imagem: Taeyoon Choi)
   support-25: >-
-    p5.js Contributors Conference at CMU STUDIO for Creative Inquiry in
-    Pittsburgh (Image credit: Taeyoon Choi)
+    Conferência de contribuidores p5.js em CMU STUDIO for Creative Inquiry em
+    Pittsburgh (Crédito da imagem: Taeyoon Choi)
   support-26: >-
-    Processing Fellow Digital Citizens Lab hosts a panel on STEM teaching at the
-    International Center of Photography (Image credit: International Center of
+    Processing Fellow Digital Citizens Lab apresenta um painel em ensino STEM no 
+    International Center of Photography (Crédito da imagem: International Center of
     Photography)
   support-27: >-
-    Participants at p5.js workshop in Santiago, Chile, led by Aarón
-    Montoya-Moraga (Image credit: Aarón Montoya-Moraga.)
+    Participantes de um workshop p5.js em Santiago, Chile, conduzido por Aarón
+    Montoya-Moraga (Crédito da imagem: Aarón Montoya-Moraga.)
   support-28: >-
-    Claire Kearney-Volpe helping facilitate a sign language based p5.js workshop
-    led by Taeyoon Choi (Image credit: Taeyoon Choi)
+    Claire Kearney-Volpe ajudando a facilitar um workshop p5.js em linguagem de sinais 
+    conduzido por by Taeyoon Choi (Crédito da imagem: Taeyoon Choi)
   support-29: >-
-    Processing Foundation Fellow DIY Girls run a creative coding program in Los
-    Angeles (Image credit: DIY Girls)
+    Processing Foundation Fellow DIY Girls executam um programa de programação
+    criativa em Los Angeles (Crédito da imagem: DIY Girls)
   support-30: Processing Fellow Digital Citizens Lab
-  support-31: Bicoastal p5.js meetup at UCLA DMA and NYU ITP
-  support-32: The Processing Foundation
-  support-33: ' was founded in 2012 after more than a decade of work with the original Processing software. The Foundation’s mission is to promote software literacy within the visual arts, and visual literacy within technology-related fields — and to make these fields accessible to diverse communities. Our goal is to empower people of all interests and backgrounds to learn how to program and make creative work with code, especially those who might not otherwise have access to these tools and resources.'
+  support-31: Meetup Bicoastal p5.js em UCLA DMA and NYU ITP
+  support-32: A fundação Processing
+  support-33: ' foi fundada em 2012 depois de mais de uma década de trabalho com o software original Processing. A missão da fundação é promover a alfabetização dentro das artes visuais e alfabetização visual dentro de campos relacionados a tecnologia e tornar esses campos acessíveis para comunidades diversas. Nosso objetivo é empoderar pessoas de todos os interesses e passados a aprender a programar e fazer trabalhos criativos com código, especialmente aqueles que podem não ter acesso a essas ferramentas e recursos.'
   support-17-alt: ''
   support-18-alt: ''
   support-19-alt: ''
